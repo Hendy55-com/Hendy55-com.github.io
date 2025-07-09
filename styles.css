@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(11, 193, 222, 0.785);
+  flex-direction:column ;
+  
+}
+#spacing{
+  margin: 30px;
+}
